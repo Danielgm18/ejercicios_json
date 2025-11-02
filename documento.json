@@ -1,0 +1,38 @@
+{
+    "jadiazcoronado":{
+        "nombres": "Juan Antonio",
+        "apellidos": "Diaz Coronado",
+        "edad":19,
+        "colombiano":true,
+        "deportes":["Futbol","Ajedrez","Gimnasia"]
+        },
+    "dmlunasol":{
+        "nombres": "Dorotea Maritza",
+        "apellidos": "Luna Sol",
+        "edad":25,
+        "colombiano":false,
+        "deportes":["Baloncesto","Ajedrez","Gimnasia"]
+    },
+    "fgomezgutierrez":{
+        "nombres": "Fernando",
+        "apellidos": "Gomez Gutierrez",
+        "edad": 48,
+        "colombiano": true,
+        "deportes":["Futbol", "Ajedrez","Baloncesto"]
+    },
+    "mdmicanquevedo":{
+        "nombres": "Maria Diana",
+        "apellidos": "Mican Quevedo",
+        "edad": 46,
+        "colombiano": true,
+        "deportes": ["Baloncesto","Gimnasia","Caminata"]
+    },
+    "ndmorenoalvarez":{
+        "nombres": "Nicolas David",
+        "apellidos": "Moreno Alvarez",
+        "edad": 24,
+        "colombiano": true,
+        "deportes": ["Ciclismo", "Futbol","Ajedrez"]
+    }
+
+}
